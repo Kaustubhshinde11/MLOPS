@@ -1,0 +1,14 @@
+# A simple user profile configuration
+profile:
+  username: coder_jane
+  active: true
+  stats:
+    level: 42
+    experience: 9500
+  languages:
+    - Python
+    - JavaScript
+    - YAML
+  preferences:
+    theme: dark
+    notifications: false
